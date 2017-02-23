@@ -1,2 +1,2 @@
 # OOXIN
-my first github repository
+my first github repositor打豆豆 
